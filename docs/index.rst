@@ -9,6 +9,7 @@ Welcome to SHAR-Q's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
    architecture
    vocabulary
    tutorials
